@@ -1,0 +1,49 @@
+body{
+    background-color: beige;
+    height: 700px;
+    width: 500px;
+    padding-left: 400px;
+}
+.Mother{
+    background-color: gainsboro;
+    height: 700px;
+    width: 500px;
+    padding: 60px;
+    position: absolute;   
+}
+.Logo{
+    width: 60px;
+    padding-left: 200px;
+}
+h2{
+    font-size: xx-large;
+    color: navy;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.Paragraph{
+    padding-left: 160px;
+    margin-top: -20px;
+    color: blue;
+}
+.Photo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: white solid 10px;
+    box-shadow: black 3px 4px 5px 6px;
+}
+.Father{
+    background-color: purple;
+    color: white;
+}
+.mn{
+    color: white;
+    padding-left: 20px;
+}
+h3{
+    padding-left: 120px;
+}
+.major{
+    padding-left: 180px;
+}
